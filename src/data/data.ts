@@ -1,4 +1,4 @@
-[
+const data = [
   {
     id: "A",
     title: "item 1",
@@ -120,3 +120,5 @@
     uniqueId: 20,
   },
 ];
+
+export { data };
